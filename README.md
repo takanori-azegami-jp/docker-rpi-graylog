@@ -1,2 +1,2 @@
 # docker-rpi-graylog
-q
+RaspberryPi(64bit)にDockerでGrayLogを構築
